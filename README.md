@@ -22,10 +22,10 @@ _First of all, you have to make sure you have everything you need installed._
 3. Install pyhton 
 
     Linux (Debian / Ubunto):
-       ```sh
+    ```sh
        sudo apt update
        sudo apt install python3
-       ```
+    ```
    
     Windows:
    
