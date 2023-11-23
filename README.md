@@ -23,12 +23,13 @@ _First of all, you have to make sure you have everything you need installed._
 3. Install pyhton 
 
     Linux (Debian / Ubunto):
+   
        ```sh
        sudo apt update
        sudo apt install python3
        ```
+   
     Windows:
-
       Download the executable installer at [https://www.python.org/downloads/windows/] run the program and follow the installation steps 
 
 ### Getting Started
