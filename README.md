@@ -9,10 +9,9 @@ _First of all, you have to make sure you have everything you need installed._
    Then follow the installation instructions bellow
    
      Linux:
-   
-       ```sh
+      ```sh
        sudo apt install ./downloaded_file.deb
-       ```
+      ```
    
      Windows:
    
@@ -23,7 +22,6 @@ _First of all, you have to make sure you have everything you need installed._
 3. Install pyhton 
 
     Linux (Debian / Ubunto):
-   
        ```sh
        sudo apt update
        sudo apt install python3
