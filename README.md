@@ -5,7 +5,7 @@
 
 _First of all, you have to make sure you have everything you need installed._
 
-1. Install VS Code file at [https://code.visualstudio.com/download)
+1. Install VS Code file at [https://code.visualstudio.com/download]
    Then follow the installation instructions bellow
    
      Linux:
@@ -14,7 +14,7 @@ _First of all, you have to make sure you have everything you need installed._
        ```
      Windows:
        After downloading the installer file, follow the installation instructions
-       You can use this site as a reference for installation [https://code.visualstudio.com/docs/setup/windows)
+       You can use this site as a reference for installation [https://code.visualstudio.com/docs/setup/windows]
 
 2. Install pyhton 
 
@@ -25,7 +25,7 @@ _First of all, you have to make sure you have everything you need installed._
        ```
     Windows:
 
-      Download the executable installer at [https://www.python.org/downloads/windows/) run the program and follow the installation steps 
+      Download the executable installer at [https://www.python.org/downloads/windows/] run the program and follow the installation steps 
 
 ### Getting Started
 
@@ -43,11 +43,11 @@ _First of all, you have to make sure you have everything you need installed._
 
     Linux:
      ```sh
-     python3 icmp_packets.py
+        python3 icmp_packets.py
      ```
     Windows:
      ```sh
-       python3 icmp_packets.py
+        python3 icmp_packets.py
      ```
 
 
