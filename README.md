@@ -9,14 +9,18 @@ _First of all, you have to make sure you have everything you need installed._
    Then follow the installation instructions bellow
    
      Linux:
+   
        ```sh
        sudo apt install ./downloaded_file.deb
        ```
+   
      Windows:
+   
        After downloading the installer file, follow the installation instructions
        You can use this site as a reference for installation [https://code.visualstudio.com/docs/setup/windows]
 
-2. Install pyhton 
+
+3. Install pyhton 
 
     Linux (Debian / Ubunto):
        ```sh
