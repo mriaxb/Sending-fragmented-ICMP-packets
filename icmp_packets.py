@@ -25,8 +25,8 @@ def send_fragmented_icmp_packets(destination_ip, payload):
 if __name__ == "__main__":
 
     # destination IP and custom payload 
-    target_ip = "192.168.3.20"
-    custom_payload = "SSI{H4ck3rs_w1n}"
+    target_ip = "0.0.0.0 <- your destination IP"
+    custom_payload = "This is a payload to be fragmented <- your custom payload"
 
     # ---- call function to send payload fragments in ICMP packets ----
     send_fragmented_icmp_packets(target_ip, custom_payload)
