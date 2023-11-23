@@ -24,7 +24,7 @@ def send_fragmented_icmp_packets(destination_ip, payload):
 # ---- example of use ----s
 if __name__ == "__main__":
 
-    # destination IP and custom payload 
+    # ---- destination IP and custom payload ----
     target_ip = "0.0.0.0 <- your destination IP"
     custom_payload = "This is a payload to be fragmented <- your custom payload"
 
