@@ -15,9 +15,8 @@ _First of all, you have to make sure you have everything you need installed._
        ```
    
      Windows:
-   
-       After downloading the installer file, follow the installation instructions
-       You can use this site as a reference for installation [https://code.visualstudio.com/docs/setup/windows]
+         After downloading the installer file, follow the installation instructions
+         You can use this site as a reference for installation [https://code.visualstudio.com/docs/setup/windows]
 
 
 3. Install pyhton 
